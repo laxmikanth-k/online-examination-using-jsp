@@ -90,7 +90,7 @@ In this project there are four sub modules:
 
 ## Authors
 
-- [@Mohd Ahasan Khan](https://github.com/laxmikanth-k)
+- [@LaxmiKanth Reddy](https://github.com/laxmikanth-k)
 
 
 ## 🔗 Links
